@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Teachers Inspection Database",
+  "description": "English-language faculty inspection database for managing teachers, institutions, employment statuses, visit tracking, and visit report uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
